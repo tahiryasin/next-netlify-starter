@@ -7,17 +7,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>TikTokers.ae | A platform for tiktokers in UAE.</title>
+        <title>Pakistantrailsadventure.com | Top Travel & Tours website from Pakistan.</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Tiktokers.ae" />
+        <Header title="Pakistantrailsadventure.com" />
         <p className="description">
-          No#1 platform for Tiktokers in UAE
+          Top Travel & Tours website from Pakistan
         </p>
         <p>
-          Whatsapp at <a href="https://api.whatsapp.com/send?phone=19097570544">+1 909-757-0544</a> to purchase this domain.
+          Contact at <a href="https://api.whatsapp.com/send?phone=923555602221">+92 355 5602221</a> for inquiries.
         </p>
       </main>
 
