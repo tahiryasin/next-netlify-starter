@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Pakistantrailsadventure.com | Top Travel & Tours website from Pakistan.</title>
+        <title>PakistanTrailsAdventure.com | Top Travel & Tours website from Pakistan.</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
